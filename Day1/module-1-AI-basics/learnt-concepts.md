@@ -29,7 +29,7 @@ Type	      Example       	Description
 int	       10	            whole numbers
 float	     3.14	          decimal numbers
 str	       "hello"        text
-bool      	True	          logical value
+bool      	True	          logical value 
 
 Example:
 
