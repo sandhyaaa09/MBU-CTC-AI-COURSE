@@ -2,7 +2,7 @@ Python Basics (Core Concepts)
 
 Python is a high-level interpreted language widely used in AI because it is simple and has many AI libraries.
 
-Python Characteristics
+Python Characteristics:
 
 Easy syntax
 
@@ -12,7 +12,7 @@ Huge ecosystem (NumPy, TensorFlow, PyTorch)
 
 Great for data processing
 
-Variables
+Variables:
 
 Variables store data in memory.
 
@@ -24,12 +24,12 @@ height = 5.4
 
 Python automatically detects the data type.
 
-Data Types
-Type	Example	Description
-int	10	whole numbers
-float	3.14	decimal numbers
-str	"hello"	text
-bool	True	logical value
+Data Types:
+Type	      Example       	Description
+int	       10	            whole numbers
+float	     3.14	          decimal numbers
+str	       "hello"        text
+bool      	True	          logical value
 
 Example:
 
@@ -37,7 +37,8 @@ x = 10
 y = 3.5
 name = "AI"
 is_student = True
-Lists
+
+Lists:
 
 Lists store multiple values.
 
@@ -50,7 +51,7 @@ Output:
 
 Lists are mutable (can change).
 
-Dictionary
+Dictionary:
 
 Stores key-value pairs.
 
@@ -68,7 +69,7 @@ Diya
 
 Dictionaries are very important when working with JSON APIs in AI-102.
 
-Functions
+Functions:
 
 Functions help reuse code.
 
