@@ -25,11 +25,11 @@ height = 5.4
 Python automatically detects the data type.
 
 Data Types:
-Type	      Example       	Description
-int	       10	            whole numbers
-float	     3.14	          decimal numbers
-str	       "hello"        text
-bool      	True	          logical value 
+Type	      
+int	       
+float	     
+str	       
+bool      	
 
 Example:
 
